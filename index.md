@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link]([Quick Start] (https://docs.github.com/en/pages/quickstart)) 
+[Quick Start](https://docs.github.com/en/pages/quickstart) 
 and ![Image](src)
 ```
 
